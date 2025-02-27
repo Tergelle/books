@@ -1,5 +1,5 @@
 streamlit
-fastai = 2.7.18
+fastai==2.7.18
 pandas
 torch
 gdown
